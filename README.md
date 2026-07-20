@@ -82,3 +82,13 @@ python steam_embedding_analyzer.py
 ## 📄 Licença e Contexto
 
 Este projeto foi desenvolvido como parte de Trabalho de Data Science em Mestrado de Informatica UFRJ.
+
+Declaração de Uso de IA Generativa
+
+Este projeto utilizou a ferramenta de inteligência artificial generativa Gemini (Google) como apoio técnico durante o desenvolvimento, nas seguintes atividades:
+
+Apoio na documentação e organização do código-fonte.
+Auxílio na depuração de erros e na melhoria da rastreabilidade por meio de logs de execução.
+Suporte na implementação e ajustes da interface gráfica desenvolvida em Tkinter.
+
+Nota: Toda a concepção da pesquisa, a definição da arquitetura do sistema de recomendação, o desenvolvimento da metodologia, o pré-processamento dos dados, a implementação da lógica do sistema, a análise dos resultados e a redação do trabalho foram realizados pelos autores. A ferramenta de IA foi utilizada apenas como apoio ao desenvolvimento e à documentação do software.
