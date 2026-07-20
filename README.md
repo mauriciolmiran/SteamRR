@@ -1,4 +1,4 @@
-# 🎮 Steam Review and Recomendation — Recomendador Semântico de Jogos da Steam 
+# 🎮 Steam Review and Recommendation — Recomendador Semântico de Jogos da Steam 
 
 Sistema de recomendação semântica e busca vetorial em linguagem natural para jogos da plataforma Steam, desenvolvido como projeto da cadeira de Data Science.
 
